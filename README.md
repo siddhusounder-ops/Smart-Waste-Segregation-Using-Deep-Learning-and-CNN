@@ -1,1 +1,1 @@
-# Smart-Waste-Segregation-Using-Deep-Learning-and-CNN
+# Smart Waste Segregation Using Deep Learning and CNN
